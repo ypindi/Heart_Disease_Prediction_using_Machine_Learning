@@ -21,10 +21,8 @@ classification algorithms due to its high convergence speed and
 simplicity.
 
 ### 3.2 Support Vector Classifier
-Support Vector Machine is a supervised machine learning algorithm that classifies data by finding an optimal line 
+Support Vector Machine (SVM) is a supervised machine learning algorithm that classifies data by finding an optimal line 
 or hyperplane that maximizes the distance between each class in an N-dimensional space. Support
 Vector Classifier is highly preferred by many as it produces significant
-accuracy with less computation power. Support Vector Machine (or
-SVM) can be used for both regression and classification tasks. But, it is
-widely used in classification objectives. It is used in both linear
+accuracy with less computation power. It can be used for both regression and classification tasks. It is used in both linear
 regression and logistic regression.
